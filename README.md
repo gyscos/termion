@@ -8,7 +8,7 @@ Termion aims to be simple and yet expressive. It is bindless, meaning that it
 is not a front-end to some other library (e.g., ncurses or termbox), but a
 standalone library directly talking to the TTY.
 
-Termion is quite convinient, due to its complete coverage of essential TTY
+Termion is quite convenient, due to its complete coverage of essential TTY
 features, providing one consistent API. Termion is rather low-level containing
 only abstraction aligned with what actually happens behind the scenes, for
 something more high-level, refer to inquirer-rs, which uses Termion as backend.
